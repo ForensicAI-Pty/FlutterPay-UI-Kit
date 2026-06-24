@@ -1,0 +1,22 @@
+name: payment_demo_app
+description: A premium secure multi gateway location based payment routing client library for Flutter
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  webview_flutter: ^4.4.2
+  uuid: ^4.0.0
+  flutterpay:
+    path: ../payment_router_client
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
