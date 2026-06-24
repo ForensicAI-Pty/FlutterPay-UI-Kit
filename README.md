@@ -144,5 +144,5 @@ This repository contains the **Frontend UI Kit** and is open-sourced under the M
 
 If you are looking to deploy this in production with a secure, production-ready backend:
 - We offer a **Premium Django/FastAPI payment router backend** with native API connections, Webhook handlers, and cryptographic validation for Stripe, Paystack, Stitch, and Ozow.
-- For business inquiries, licensing, or commercial support, contact us at **Tshepo.Malatji@forensicai.co.za** or **https://www.forensicai.co.za**.
+- For business inquiries, licensing, or commercial support, contact us at **info@forensicai.co.za** or **https://www.forensicai.co.za**.
 **.
